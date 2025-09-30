@@ -1,0 +1,26 @@
+Section,Year,Month,Monthly_Revenue,Order_Volume
+"Monthly Revenue and Order Volume",2022,11,650.00,3
+"Monthly Revenue and Order Volume",2022,12,2000.00,4
+"Monthly Revenue and Order Volume",2023,1,1670.00,4
+"Monthly Revenue and Order Volume",2023,2,2750.00,5
+"Monthly Revenue and Order Volume",2023,3,3780.00,5
+"Monthly Revenue and Order Volume",2023,4,2850.00,4
+"Monthly Revenue and Order Volume",2023,5,3590.00,5
+"Monthly Revenue and Order Volume",2023,6,2500.00,5
+"Monthly Revenue and Order Volume",2023,7,3400.00,5
+"Monthly Revenue and Order Volume",2023,8,4550.00,5
+"Monthly Revenue and Order Volume",2023,9,5100.00,5
+"Revenue Handling NULLs",2022,11,650.00,3
+"Revenue Handling NULLs",2022,12,2000.00,4
+"Revenue Handling NULLs",2023,1,1670.00,4
+"Revenue Handling NULLs",2023,2,2750.00,5
+"Revenue Handling NULLs",2023,3,3780.00,5
+"Revenue Handling NULLs",2023,4,2850.00,4
+"Revenue Handling NULLs",2023,5,3590.00,5
+"Revenue Handling NULLs",2023,6,2500.00,5
+"Revenue Handling NULLs",2023,7,3400.00,5
+"Revenue Handling NULLs",2023,8,4550.00,5
+"Revenue Handling NULLs",2023,9,5100.00,5
+"Top 3 Months by Revenue",2023,3,3780.00,5
+"Top 3 Months by Revenue",2023,8,4550.00,5
+"Top 3 Months by Revenue",2023,9,5100.00,5
