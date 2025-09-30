@@ -47,6 +47,6 @@ Instead of running the three queries separately, we can use the **combined SQL q
 
 * This produces a **single CSV file** containing all three analyses.
 
-Conclusion
+## Conclusion
 The SQL aggregation techniques reveal sales seasonality and highlight peak business periods,
 which can help with resource planning, marketing, and inventory decisions.
